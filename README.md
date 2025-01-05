@@ -1,0 +1,1 @@
+# Gastro_intestinal_disease_prediction
